@@ -19,3 +19,6 @@ Tắt cái gì ?
 Ai cần biết, theo thứ tự ? -> Customer affected (DM cá nhân, Founder voice ) -> Team ( Slack #all ) -> Public (1 tweet ngắn từ founder ) -> Investor ( email update sau 24h )
 Team phải biết là anh founder đã bắt đầu vào và đang xử lý. 
 In a viral crisis, hour 1 matters more than hour 24. 
+
+Softskill > HardSkill 
+Phải lên được plan B thì mới có thể làm được softskill tốt. 
