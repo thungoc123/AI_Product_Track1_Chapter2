@@ -1,0 +1,1 @@
+Bổ sung day 18 để hoàn thành risk_register 
